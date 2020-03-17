@@ -4,7 +4,7 @@
 
 #### Part One
 
-    function a() {
+    function a(arr) {
         b = arr.length;
         temp = arr[b-1];
         arr[b-1] = arr[0];
