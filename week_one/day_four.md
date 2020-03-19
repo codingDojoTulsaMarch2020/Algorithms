@@ -1,4 +1,4 @@
-## Week I Day II Algorithms
+## Week I Day IV Algorithms
 
 ### Predict the output
 
